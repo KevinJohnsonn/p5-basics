@@ -1,7 +1,7 @@
 var a = 50;
 var b = 50;
-var newWidth
-var newHeight = a + b;
+var newWidth = 100;
+var newHeight = 100;
 
 //setup function executes once
 function setup(){
